@@ -9,21 +9,24 @@
 - 🚀 Driven by curiosity, creativity, and a love for clean, efficient code
 
 
-## 🛠️ Technical Skills
+---
 
-### Languages  
-`C` • `C++` • `Java` • `Python` • `JavaScript` • `PHP` • `HTML5` • `CSS3` • `C#` 
+## 🛠 Technical Skills
 
-### Frameworks & Tools  
-`Node.js` • `React.js` • `Visual Studio` • `VS Code` • `Android Studio` • `XAMPP` 
+### 💻 Languages  
+C • C++ • Java • Python • JavaScript • PHP • HTML5 • CSS3 • SQL  
 
-### Databases  
-`MySQL` • `SQL Server` • `JDBC`
+### 🧰 Frameworks & Tools  
+Spring Boot • Node.js • React.js • Visual Studio Code • Android Studio • XAMPP  
 
-### Version Control & Platforms  
-`Git` • `GitHub` • `Windows` • `Linux` • `Android`
+### 🗄 Databases  
+MySQL • SQL Server • JDBC  
+
+### 🔧 Platforms & Dev Tools  
+Git • GitHub • Windows • Linux • Postman • Firebase  
 
 ---
+
 
 ## 📊 GitHub Stats  
 
