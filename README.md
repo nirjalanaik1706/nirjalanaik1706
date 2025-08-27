@@ -11,8 +11,9 @@
 - 🚀 Driven by curiosity, creativity, and a love for clean, efficient code
 
 
----
+----
 ## 🛠 Technical Skills
+
 
 ## 💻 Languages and Tools
 
