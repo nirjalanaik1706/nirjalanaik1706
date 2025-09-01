@@ -10,10 +10,6 @@
 - 🛠️ Technologies I am working with: Java, C, C++, C#, Node.js, Python, React, Spring Boot, SQL, MongoDB
 - 🚀 Driven by curiosity, creativity, and a love for clean, efficient code
 
-
-
-
-
 ----
 ## 🛠 Technical Skills
 
