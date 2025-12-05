@@ -72,7 +72,7 @@
 
 ## 📊 GitHub Stats  
 
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirjalanaik1706&show_icons=true&theme=github_dark)  
+![Nirjala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirjalanaik1706&show_icons=true&theme=github_dark)  
 
 ---
 ## 👀 Most Used Languages
