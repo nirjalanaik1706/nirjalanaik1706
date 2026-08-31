@@ -6,7 +6,6 @@
 - 💡 Enjoy building practical projects that solve real-life problems
 - 💻 I am passionate about software development, backend technologies, and building efficient, scalable applications.  
 - 🤝 I am a quick learner, team player, and always excited to explore new technologies.  
-- 🔭 Currently working on: **TFL Assessment Projects**  
 - 🛠️ Technologies I am working with: Java, C, C++, C#, Node.js, Python, React, Spring Boot, SQL, MongoDB
 - 🚀 Driven by curiosity, creativity, and a love for clean, efficient code
 
